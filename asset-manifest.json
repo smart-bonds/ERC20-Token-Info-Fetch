@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ERC20-Token-Info-Fetch/static/js/main.64989e83.js",
+    "static/js/453.c9fbc632.chunk.js": "/ERC20-Token-Info-Fetch/static/js/453.c9fbc632.chunk.js",
+    "index.html": "/ERC20-Token-Info-Fetch/index.html",
+    "main.64989e83.js.map": "/ERC20-Token-Info-Fetch/static/js/main.64989e83.js.map",
+    "453.c9fbc632.chunk.js.map": "/ERC20-Token-Info-Fetch/static/js/453.c9fbc632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64989e83.js"
+  ]
+}
